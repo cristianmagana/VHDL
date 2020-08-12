@@ -1,8 +1,8 @@
 # VHDL
 
 ----------------------------------------------------------------------
--- Digital Design 101 Lab Assignment 1 - S20
--- LFDetector Structural Model
+-- Digital Design 101 - S20
+-- 4 Bit 4-to-1 Selector
 ----------------------------------------------------------------------
 -- Student First Name : Cristian
 -- Student Last Name : Magana
