@@ -2,9 +2,9 @@
 -- Digital Design 101 Lab Assignment 1 - S20
 -- LFDetector Structural Model
 ----------------------------------------------------------------------
--- Student First Name : Your First Name
--- Student Last Name : Your Last Name
--- Student ID : Your Student ID
+-- Student First Name : Cristian
+-- Student Last Name : Magana
+-- Student ID : ----
 ----------------------------------------------------------------------
 
 LIBRARY ieee;
